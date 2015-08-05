@@ -8,7 +8,7 @@ Este projeto é um estudo sobre padrão de projeto, contendo:</br>
 </ul>
 
 
-A apostila usada como base está disponível gratuitamente em (www.k19.com.br){www.k19.com.br}.</br>
+A apostila usada como base está disponível gratuitamente em www.k19.com.br.</br>
 
 Padrão de projeto é uma solução consolidada para um problema recorrente no desenvolvimento e manutenção de software orientado a objetos.</br>
 
